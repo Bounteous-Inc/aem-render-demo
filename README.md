@@ -1,8 +1,11 @@
 # AEM Granite Render Condition Demo
 
 This project contains all the source code for the demo given at the AEM Meetup in San Francisco on 03/05/18 and Denver on 04/17/28.
+
 [Adobe Connect Recording](https://www.youtube.com/watch?v=kzJOAPuQfN0)
+
 [Slide Deck](https://drive.google.com/file/d/1G-bCZgQHpbc7mAvYrwLGbi4143UbudSH/view)
+
 It is a demo of how a custom Granite Render Condition can be leveraged inside of AEM to show/hide certain elements based on a user's roles.
 
 ## Code structure
